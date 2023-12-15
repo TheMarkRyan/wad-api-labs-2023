@@ -1,2 +1,3 @@
-# wad-api-labs-2023
-Repository for Mark Ryan's Web App 2 Assignment 2.
+# Web App Dev 2: Web API Labs
+
+Practical labs for the WAD2 module
